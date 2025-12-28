@@ -1,12 +1,5 @@
 # Agro-Aid
 
-### 🤝 Project Credits
-* **Team:** This project was originally developed as a collaborative effort with [@Karma121221](https://github.com/Karma121221).
-* **My Contribution:** I was responsible for the Frontend development (HTML/CSS), UI design, and integrating the AI Chatbot interface.
-* **Note:** This repository is a personal portfolio archive of the project.
-
----
-
 Agro-Aid is a smart farming solution designed to assist farmers with crop recommendations, yield predictions, soil fertility analysis, and crop health assessments. The platform leverages machine learning models and real-time data to provide actionable insights for better agricultural outcomes.
 
 ![Agro-Aid](screenshots/1.jpg)
@@ -51,3 +44,14 @@ Agro-Aid is a smart farming solution designed to assist farmers with crop recomm
 - Can be accessed directly from the homepage using the "Chat with AgroAid" button.
 
 ## Technologies Used
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Flask (Python)
+- **Machine Learning**: Scikit-learn, Joblib
+- **APIs**: Google Generative AI (Gemini), OpenWeatherMap
+- **Data Handling**: Pandas, NumPy
+
+## Setup Instructions
+1. Clone the repository.
+2. Install required Python packages:
+   ```bash
+   pip install flask flask-cors google-generativeai scikit-learn joblib pandas numpy

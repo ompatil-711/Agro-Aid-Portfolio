@@ -55,3 +55,8 @@ Agro-Aid is a smart farming solution designed to assist farmers with crop recomm
 2. Install required Python packages:
    ```bash
    pip install flask flask-cors google-generativeai scikit-learn joblib pandas numpy
+
+ 🤝 Project Credits: 
+* **Team:** This project was developed as a collaborative group effort.
+* **My Contribution:** Frontend development , UI design 
+* **Note:** This repository is a personal portfolio archive.

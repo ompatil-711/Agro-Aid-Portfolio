@@ -43,6 +43,7 @@ Agro-Aid is a smart farming solution designed to assist farmers with crop recomm
 - An AI-powered chatbot for instant agricultural advice.
 - Can be accessed directly from the homepage using the "Chat with AgroAid" button.
 
+
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Flask (Python)
